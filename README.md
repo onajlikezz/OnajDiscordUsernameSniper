@@ -16,8 +16,7 @@
 - {x} [Support](#SUPPORT)
 
 ## SUPPORT
-IF YOU HAVE ANY QUESTIONS [CLICK HERE](https://discord.gg/pBFaCQQVBV) TO ENTER DSCORD SERVER
-OR ADD ME ON DISCORD: onajlikezz
+If you have any questions [click here](https://discord.gg/pBFaCQQVBV) to enter discord server
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
