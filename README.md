@@ -13,7 +13,6 @@
 
 ## More About the Program
 - {x} [Download Last Release](https://github.com/onajlikezz/OnajDiscordUsernameSniper/releases)
-- {x} [YouTube Tutorial](https://www.youtube.com/watch?v=WnMs0cusbwk)
 - {x} [Support](#SUPPORT)
 
 ## SUPPORT
