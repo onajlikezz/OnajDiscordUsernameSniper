@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-ODUS v3 – OnajLikezz Discord Username Sniper
-Auto‑purge dead proxies | Zero‑delay proxy mode | Brutal error resistance | Modern dark UI
-Fixed: app.root.mainloop()
-"""
-
 import random, string, time, json, os, threading
 from collections import deque
 from tkinter import (Tk, Frame, Label, Entry, Button, Text, Scrollbar, END,
